@@ -1,11 +1,16 @@
+# Library
 corange.dll
 corange.lib
 corange.res
 libcorange.so
 libcorange.a
+
+# Objects
 *~
 *.o
-*.log
 *.exe
+
+# Logs
+*.log
 stdout.txt
 stderr.txt
